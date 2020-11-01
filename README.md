@@ -23,4 +23,4 @@ with Tyki, Daniel, Zero, Kong
 ### 발표 순서
 - 기본 룰 : Tyki -> Zero -> Daniel -> Kong
 - 1주차(10/28) 발표자 : Tyki
-- 2주차 발표자 : 
+- 2주차 발표자(11/02) : Zero
