@@ -63,6 +63,8 @@ marp: true
 
 [link](https://github.kakaocorp.com/A-TF/eva-sdat/blob/95bb730064f5927b9913724677451c8d45def3e8/src/main/kotlin/com/kakao/sdat/news/infrastructure/playlist/RubicsCurrentPlayList.kt#L89)
 
+[link](https://github.kakaocorp.com/A-TF/eva-sdat/blob/5167bbff982f238d228b31d9d1be9f7a18524532/src/main/kotlin/com/kakao/sdat/news/domain/intent/NewsScenarioGuesser.kt#L21)
+
 ---
 
 ## 중요성을 강조하는 주석
@@ -91,10 +93,8 @@ marp: true
 
 ### TestCase
 
-- BAD
-  - [Music DA](https://github.kakaocorp.com/search-middle/music-da/blob/1d6dc87a312f8e1e64c81448dd35f83c9dc8d114/src/test/java/com/kakaocorp/v3intent/PlayMyPlaylistTest2.java#L85)
-- GOOD
-  - [link](https://lenditkr.github.io/kotlin/junit/)
+- [BAD](https://github.kakaocorp.com/search-middle/music-da/blob/1d6dc87a312f8e1e64c81448dd35f83c9dc8d114/src/test/java/com/kakaocorp/v3intent/PlayMyPlaylistTest2.java#L85)
+- [GOOD](https://lenditkr.github.io/kotlin/junit/)
 
 ---
 
