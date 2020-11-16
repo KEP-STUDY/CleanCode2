@@ -28,9 +28,16 @@ marp: true
 
 ## 법적인 주석
 
+[link](https://github.com/spring-projects/spring-boot/blob/master/spring-boot-tests/spring-boot-integration-tests/spring-boot-server-tests/src/test/java/com/autoconfig/ExampleAutoConfiguration.java)
+
+- 최근에는 License file 을 이용해 관리하는편
+  - https://docs.github.com/en/free-pro-team@latest/github/building-a-strong-community/adding-a-license-to-a-repository
+
 ---
 
 ## 정보를 제공하는 주석
+
+[link](https://github.kakaocorp.com/A-TF/eva-sdat/blob/5cacec1cb73a97362a82c6664b48c114fa5ad3d2/src/main/kotlin/com/kakao/sdat/commons/util/HangulUtil.kt#L6)
 
 ---
 
@@ -47,6 +54,8 @@ marp: true
 ---
 
 ## TODO 주석
+
+[link](https://github.kakaocorp.com/A-TF/eva-sdat/blob/95bb730064f5927b9913724677451c8d45def3e8/src/main/kotlin/com/kakao/sdat/news/infrastructure/playlist/RubicsCurrentPlayList.kt#L89)
 
 ---
 
@@ -132,3 +141,24 @@ marp: true
 ---
 
 ## 비공개 코드에서 Javadocs
+
+[link](https://github.kakaocorp.com/search-middle/kakaotv-da2/blob/9b8201f7edc66f9b8213db6b8329ee626d10a62e/src/main/java/com/kakao/search/da/kakaotv/clients/commons/ClientBaseUrlRegistry.java#L39)
+
+---
+
+# 결론
+
+## Schema as Code
+
+[발표 자료](https://docs.google.com/presentation/d/1XQWrYrz8wr8DzXV4e8Ffhhb9pjrAu8BXq2xrNdE1pW4/edit?usp=sharing)
+
+## Infra as Code
+
+[Terraform](https://www.terraform.io/)
+[Blog](https://woowabros.github.io/tools/2019/09/20/terraform.html)
+
+---
+
+![](../image/hqdefault.jpg)
+
+---
