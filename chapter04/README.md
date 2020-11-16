@@ -43,13 +43,19 @@ marp: true
 
 ## 의도를 설명하는 주석
 
+[link](https://github.kakaocorp.com/search-middle/music-da/blob/27bd0477da65beba5c199d46dc14a09b2c90a289/src/main/java/com/kakaocorp/model/Token.java#L38)
+
 ---
 
 ## 의미를 명료하게 밝히는 주석
 
+[link](https://github.kakaocorp.com/A-TF/eva-sdat/blob/7de4294462dc2c001567be8955df64b3948c2992/src/main/kotlin/com/kakao/sdat/sports/application/SportsPlayerResultAggregator.kt#L36)
+
 ---
 
 ## 결과를 경고하는 주석
+
+[link](https://github.kakaocorp.com/search-middle/music-da/blob/aa80e8daa3161efb3299ed4f3ccdafe26b3d36b8/clients/src/main/java/com/kakaocorp/search/musicda/clients/melon/dto/io/DeliveryStreamingPathReq.java#L83)
 
 ---
 
@@ -61,9 +67,13 @@ marp: true
 
 ## 중요성을 강조하는 주석
 
+[link](https://github.kakaocorp.com/search-middle/music-da/blob/1624105c2e746bd10cec79eea4607dcf35afa677/commons/src/main/java/com/kakaocorp/search/da/musicda/support/model/DeviceInfo.java#L99)
+
 ---
 
 ## 공개 API에서 Javadoc
+
+[link](https://github.com/ReactiveX/RxJava/blob/0f21ba82666e65a54e980638cfb8a0ffe3dfe506/src/main/java/io/reactivex/rxjava3/core/Single.java#L235)
 
 ---
 
@@ -71,7 +81,9 @@ marp: true
 
 ### Data Class
 
-[Music DA](https://github.kakaocorp.com/search-middle/music-da/blob/dae1fae7e36aeab07b63ffd10d33d6c757b94e40/src/main/java/com/kakaocorp/model/TokenPack.java#L26)
+[Bad](https://github.kakaocorp.com/search-middle/music-da/blob/dae1fae7e36aeab07b63ffd10d33d6c757b94e40/src/main/java/com/kakaocorp/model/TokenPack.java#L26)
+
+[Good](https://github.kakaocorp.com/search-middle/music-da/blob/8b7fae8c2a6bd372a2f685e4997b92368b034f3e/clients/src/main/java/com/kakaocorp/search/musicda/clients/capri/dao/UserMeReq.java#L36)
 
 ### 외부 API
 
@@ -93,6 +105,8 @@ marp: true
 ---
 
 ## 같은 이야기를 반복하는 주석
+
+[link](https://github.kakaocorp.com/A-TF/eva-sdat/blob/7de4294462dc2c001567be8955df64b3948c2992/src/main/kotlin/com/kakao/sdat/sports/application/SportsPlayerResultAggregator.kt#L41)
 
 ---
 
@@ -121,6 +135,8 @@ marp: true
 ---
 
 ## HTML 주석
+
+[link](https://github.com/ReactiveX/RxJava/blob/0f21ba82666e65a54e980638cfb8a0ffe3dfe506/src/main/java/io/reactivex/rxjava3/core/Maybe.java#L198)
 
 ---
 
