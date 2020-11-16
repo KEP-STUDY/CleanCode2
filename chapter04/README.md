@@ -62,9 +62,18 @@ marp: true
 
 ### Data Class
 
+[Music DA](https://github.kakaocorp.com/search-middle/music-da/blob/dae1fae7e36aeab07b63ffd10d33d6c757b94e40/src/main/java/com/kakaocorp/model/TokenPack.java#L26)
+
 ### 외부 API
 
+[News DA](https://github.kakaocorp.com/A-TF/eva-sdat/blob/df127a10f5cf4019d1c310bd23c0322ec6f9f663/src/main/kotlin/com/kakao/sdat/news/infrastructure/news/NewsApiRepository.kt#L13)
+
 ### TestCase
+
+- BAD
+  - [Music DA](https://github.kakaocorp.com/search-middle/music-da/blob/1d6dc87a312f8e1e64c81448dd35f83c9dc8d114/src/test/java/com/kakaocorp/v3intent/PlayMyPlaylistTest2.java#L85)
+- GOOD
+  - [link](https://lenditkr.github.io/kotlin/junit/)
 
 ---
 
