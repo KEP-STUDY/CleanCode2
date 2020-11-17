@@ -102,6 +102,23 @@ marp: true
 
 ## 주절거리는 주석
 
+```java
+public void loadProperties()
+{
+  try
+  {
+    String propertiesPath = propertiesLocation + "/" + PROPERTIES_FILE;
+    FileInputStream propertiesStream = new FileInputStream(propertiesPath);
+    loadedProperties.load(propertiesStream);
+  }
+  catch(IOException e)
+  {
+    // 속성 파일이 없다면 기본값을 모두 메모리로 읽어 들였다는 의미이다.
+  }
+}
+
+```
+
 ---
 
 ## 같은 이야기를 반복하는 주석
@@ -112,25 +129,106 @@ marp: true
 
 ## 오해할 여지가 있는 주석
 
+```java
+// this.closed가 true일 때 반환되는 유틸리티 메서드이다.
+// 타임아웃에 도달하면 예외를 던진다.
+public synchronized void waitForClose(final long timeoutMillis)
+throws Exception
+{
+  if(!closed)
+  {
+    wait(timeoutMillis);
+    if(!closed)
+     throw new Exception("MockResponseSender could not be closed");
+  }
+}
+
+```
+
 ---
 
 ## 의무적으로 다는 주석
+
+```java
+ /**
+ *
+ * @param title The title of the CD
+ * @param author The author of the CD
+ * @param tracks The number of tracks on the CD
+ * @param durationInMinutes The duration of the CD in minutes
+ */
+ public void addCD(String title, String author,
+                   int tracks, int durationInMinutes) {
+  CD cd = new CD();
+  cd.title = title;
+  cd.author = author;
+  cd.tracks = tracks;
+  cd.duration = duration;
+  cdList.add(cd)
+ }
+
+```
 
 ---
 
 ## 있으나 마나한 주석
 
----
+```java
+/**
+ * 기본 생성자
+ */
+protected AnnualDateRule() {
+}
 
-## 무서운 잡음
+/** 월 중 일자 */
+ private int dayOfMonth;
+
+/**
+ * 월 중 일자를 반환한다.
+ *
+ * @return 월 중 일자
+ */
+public int getDayOfMonth() {
+ return dayOfMonth;
+}
+
+```
 
 ---
 
 ## 괄호에 다는 주석
 
+```java
+public class wc {
+ public static void main(String[] args) {
+ BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+ String line;
+ int lineCount = 0;
+ int charCount = 0;
+ int wordCount = 0;
+ try {
+    while ((line = in.readLine()) != null) {
+      lineCount++;
+      charCount += line.length();
+      String words[] = line.split("\\W");
+      wordCount += words.length;
+    } //while
+    System.out.println("wordCount = " + wordCount);
+    System.out.println("lineCount = " + lineCount);
+    System.out.println("charCount = " + charCount);
+  } // try
+  catch (IOException e) {
+    System.err.println("Error:" + e.getMessage());
+  } //catch
+ }
+
+```
+
 ---
 
 ## 주석 처리한 코드
+
+우리에겐 Git 이 있다.
 
 ---
 
@@ -142,17 +240,20 @@ marp: true
 
 ## 전역정보
 
----
+```
+/**
+ * 적합성 테스트가 동작하는 포트: 기본값은 <b>8082</b>.
+ *
+ * @param fitnessePort
+ */
+public void setFitnessePort(int fitnessePort)
+{
+  this.fitnessePort = fitnessePort;
+}
 
-## 너무 많은 정보
+```
 
----
-
-## 모호한 관계
-
----
-
-## 함수 헤더
+흠... 난 좋은데..
 
 ---
 
