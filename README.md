@@ -24,4 +24,6 @@ with Tyki, Daniel, Zero, Kong
 - 기본 룰 : Tyki -> Zero -> Daniel -> Kong
 - 1주차(10/28) 발표자 : Tyki
 - 2주차(11/02) 발표자 : Zero
-- 3주차 발표자 : 
+- 3주차(11/10) 발표자 : Daniel
+- 4주차(11/17) 발표자 : Kong
+- 5주차 발표자 : Tyki
