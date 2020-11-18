@@ -2,10 +2,10 @@
 with Tyki, Daniel, Zero, Kong
 
 ### 목차
-01. 깨끗한 코드
-02. 의미 있는 이름
-03. 함수
-04. 주석
+01. [깨끗한 코드](https://github.com/KEP-STUDY/CleanCode2/blob/master/chapter01/01.%20%EA%B9%A8%EB%81%97%ED%95%9C%20%EC%BD%94%EB%93%9C.md)
+02. [의미 있는 이름](https://github.com/KEP-STUDY/CleanCode2/blob/master/chapter02/%EC%9D%98%EB%AF%B8%EC%9E%88%EB%8A%94%20%EC%9D%B4%EB%A6%84.md)
+03. [함수](https://github.com/KEP-STUDY/CleanCode2/blob/master/chapter03/%EC%A0%9C%203%EC%9E%A5%20%ED%95%A8%EC%88%98.md)
+04. [주석](https://github.com/KEP-STUDY/CleanCode2/blob/master/chapter04/README.md)
 05. 형식 맞추기
 06. 객체와 자료 구조
 07. 오류 처리
