@@ -27,3 +27,4 @@ with Tyki, Daniel, Zero, Kong
 - 3주차(11/10) 발표자 : Daniel
 - 4주차(11/17) 발표자 : Kong
 - 5주차 발표자 : Tyki
+- 6주차(12/1) 발표자 : Zero
