@@ -7,7 +7,7 @@ with Tyki, Daniel, Zero, Kong
 03. [함수](https://github.com/KEP-STUDY/CleanCode2/blob/master/chapter03/%EC%A0%9C%203%EC%9E%A5%20%ED%95%A8%EC%88%98.md)
 04. [주석](https://github.com/KEP-STUDY/CleanCode2/blob/master/chapter04/README.md)
 05. 형식 맞추기
-06. 객체와 자료 구조
+06. [객체와 자료 구조](https://github.com/KEP-STUDY/CleanCode2/blob/master/chapter06/%EA%B0%9D%EC%B2%B4%EC%99%80_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)
 07. 오류 처리
 08. 경계
 09. 단위 테스트
