@@ -11,7 +11,7 @@ with Tyki, Daniel, Zero, Kong
 07. [오류 처리](https://github.com/KEP-STUDY/CleanCode2/blob/master/chapter07/7%20%EC%9E%A5%20%EC%98%A4%EB%A5%98%20%EC%B2%98%EB%A6%AC.md)
 08. 경계
 09. 단위 테스트
-10. 클래스
+10. [클래스](https://github.com/KEP-STUDY/CleanCode2/blob/master/chapter10/%ED%81%B4%EB%9E%98%EC%8A%A4.md)
 11. 시스템
 12. 창발성
 13. 동시성
@@ -29,3 +29,6 @@ with Tyki, Daniel, Zero, Kong
 - 5주차 발표자 : Tyki
 - 6주차(12/1) 발표자 : Zero
 - 7주차(12/8) 발표자 : Daniel (화상)
+- 8주차(12/15) 발표자 : Kong (화상)
+- 9주차(12/22) 발표자 : Tyki (화상)
+- 10주차(12/29) 발표자 : Zero (화상)
