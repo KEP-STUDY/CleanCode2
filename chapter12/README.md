@@ -4,7 +4,8 @@
 
 - [위키](https://ko.wikipedia.org/wiki/%EC%B0%BD%EB%B0%9C)
 - 하위 계층에는 없는 특성 상위 계층에서 발생하는 현상
-    - Bool 연산, 뉴런, 레 ...
+    - Bool 연산, 뉴런, 레고 ...
+    
 ![전가산기](https://t1.daumcdn.net/cfile/tistory/235B935056E830D938)
 ![뉴런](http://study.zumst.com/upload/00-D22-91-12-05/1_2_a_%EB%89%B4%EB%9F%B0%EC%9D%98%20%EA%B5%AC%EC%A1%B0.jpg)
     
